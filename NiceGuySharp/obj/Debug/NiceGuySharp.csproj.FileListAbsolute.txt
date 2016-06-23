@@ -1,0 +1,2 @@
+C:\Users\NamHT\Downloads\LeagueSharp-master\NiceGuySharp\NiceGuySharp\bin\Debug\NiceGuySharp.exe.config
+C:\Users\NamHT\Downloads\LeagueSharp-master\NiceGuySharp\NiceGuySharp\obj\Debug\NiceGuySharp.csprojResolveAssemblyReference.cache
